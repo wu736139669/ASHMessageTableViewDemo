@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CAE9D648-7227-48D9-9268-DE64C1E5B68F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ASHMessageTableViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>173F6F8182CBCDD646F094A9F2D66CB1CF836978</key>
+		<string>https://github.com/wu736139669/ASHMessageTableViewDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ASHMessageTableViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>173F6F8182CBCDD646F094A9F2D66CB1CF836978</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wu736139669/ASHMessageTableViewDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>173F6F8182CBCDD646F094A9F2D66CB1CF836978</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>173F6F8182CBCDD646F094A9F2D66CB1CF836978</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ASHMessageTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
