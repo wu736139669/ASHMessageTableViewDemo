@@ -14,6 +14,7 @@
 		A97429B81A68C81C00732735 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A97429B71A68C81C00732735 /* Images.xcassets */; };
 		A97429BB1A68C81C00732735 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A97429B91A68C81C00732735 /* LaunchScreen.xib */; };
 		A97429C71A68C81C00732735 /* ASHMessageTableViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A97429C61A68C81C00732735 /* ASHMessageTableViewDemoTests.m */; };
+		A9B965551A6D307B0017F9F2 /* MessageTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9B965541A6D307B0017F9F2 /* MessageTableView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		A97429C01A68C81C00732735 /* ASHMessageTableViewDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ASHMessageTableViewDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A97429C51A68C81C00732735 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A97429C61A68C81C00732735 /* ASHMessageTableViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ASHMessageTableViewDemoTests.m; sourceTree = "<group>"; };
+		A9B965531A6D307B0017F9F2 /* MessageTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MessageTableView.h; sourceTree = "<group>"; };
+		A9B965541A6D307B0017F9F2 /* MessageTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MessageTableView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				A97429B71A68C81C00732735 /* Images.xcassets */,
 				A97429B91A68C81C00732735 /* LaunchScreen.xib */,
 				A97429AA1A68C81C00732735 /* Supporting Files */,
+				A9B965531A6D307B0017F9F2 /* MessageTableView.h */,
+				A9B965541A6D307B0017F9F2 /* MessageTableView.m */,
 			);
 			path = ASHMessageTableViewDemo;
 			sourceTree = "<group>";
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A97429B31A68C81C00732735 /* ViewController.m in Sources */,
+				A9B965551A6D307B0017F9F2 /* MessageTableView.m in Sources */,
 				A97429B01A68C81C00732735 /* AppDelegate.m in Sources */,
 				A97429AD1A68C81C00732735 /* main.m in Sources */,
 			);
@@ -412,6 +418,7 @@
 				A97429CC1A68C81C00732735 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A97429CD1A68C81C00732735 /* Build configuration list for PBXNativeTarget "ASHMessageTableViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				A97429CF1A68C81C00732735 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
