@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>喂，2B！</string>
+		<key>icon</key>
+		<string>icon01.jpg</string>
+		<key>time</key>
+		<string>前天 10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>问你个严肃的事</string>
+		<key>icon</key>
+		<string>icon01.jpg</string>
+		<key>time</key>
+		<string>前天 10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你妹夫啊，你才2B！说，什么事？</string>
+		<key>icon</key>
+		<string>icon02.jpg</string>
+		<key>time</key>
+		<string>昨天 20:05</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你姐夫啊，我就想问下：你是不是我最好的朋友？</string>
+		<key>icon</key>
+		<string>icon01.jpg</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>不借</string>
+		<key>icon</key>
+		<string>icon02.jpg</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>借你妹夫啊，哥又不穷，不是找你借钱。你就回答“是”或者“不是”。</string>
+		<key>icon</key>
+		<string>icon01.jpg</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>是</string>
+		<key>icon</key>
+		<string>icon02.jpg</string>
+		<key>time</key>
+		<string>昨天 20:11</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>刚才看了部非常感人的电视剧，电视上说狗才是人类最好的朋友，所以我想确认一下</string>
+		<key>icon</key>
+		<string>icon01.jpg</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你妈B的！！！滚！！！</string>
+		<key>icon</key>
+		<string>icon02.jpg</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
